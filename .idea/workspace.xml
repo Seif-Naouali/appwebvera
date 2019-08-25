@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6a06027-fd14-4a23-851c-a4c19ceb77c4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/controllers/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="955" column="73" selection-start-line="955" selection-start-column="73" selection-end-line="955" selection-end-column="73" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#18598#20941#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-541" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!block;n#dependencies#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="n#!!block;n#dependencies#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/routes/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Fixe</find>
+      <find>log</find>
+      <find>simple T</find>
+      <find>hi</find>
+      <find>HIst</find>
+      <find>total</find>
+      <find>gradientStroke</find>
+      <find>Chart</find>
+      <find>histor</find>
+      <find>calc</find>
+      <find>total temp</find>
+      <find>Char</find>
+      <find>getAllTempsEnMinutes</find>
+      <find>getTotalTempsParcourus</find>
+      <find>BestScoreUser</find>
+      <find>hist</find>
+      <find>addI</find>
+      <find>createU</find>
+      <find>updateUser</find>
+      <find>upload</find>
+      <find>date</find>
+      <find>Image</find>
+      <find>comp</find>
+      <find>calculTotalTempsByEmail</find>
+      <find>SET_CURRENT_USER</find>
+      <find>img</find>
+      <find>regi</find>
+      <find>GET_USER_INFO</find>
+      <find>update</find>
+      <find>butt</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BackEnd/middleware/file.js" />
+        <option value="$PROJECT_DIR$/BackEnd/middleware/multer.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/Historique/HistoriqueDistance.js" />
+        <option value="$PROJECT_DIR$/src/views/Icons.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Historique/HistoriqueDistance.js" />
+        <option value="$PROJECT_DIR$/src/components/total/TotalDistanceParcourue.js" />
+        <option value="$PROJECT_DIR$/src/components/total/getLastTempsDate.js" />
+        <option value="$PROJECT_DIR$/src/components/Historique/NAvBArHistorique.js" />
+        <option value="$PROJECT_DIR$/src/components/Historique/HistoriqueCalories.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/authActions.js" />
+        <option value="$PROJECT_DIR$/BackEnd/routes/api/users.js" />
+        <option value="$PROJECT_DIR$/BackEnd/app.js" />
+        <option value="$PROJECT_DIR$/src/views/Dashboard.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Navbars/AdminNavbar.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/views/UserProfile.jsx" />
+        <option value="$PROJECT_DIR$/src/layouts/Admin/Admin.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Charts/ChartHeart.js" />
+        <option value="$PROJECT_DIR$/src/components/Historique/NavBarHistorique.js" />
+        <option value="$PROJECT_DIR$/src/views/Map.jsx" />
+        <option value="$PROJECT_DIR$/src/components/root.js" />
+        <option value="$PROJECT_DIR$/src/components/total/ListScore.js" />
+        <option value="$PROJECT_DIR$/src/components/total/TotalTempsParcouru.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/profileActions.js" />
+        <option value="$PROJECT_DIR$/BackEnd/validation/register.js" />
+        <option value="$PROJECT_DIR$/src/components/Home/Home.js" />
+        <option value="$PROJECT_DIR$/src/components/auth/Login.js" />
+        <option value="$PROJECT_DIR$/src/components/auth/Register.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/BackEnd/controllers/users.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/components/auth/Login.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/components/Home/Home.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/components/total/ListScore.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/components/root.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/Historique/HistoriqueCalories.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/Historique/HistoriqueDistance.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/Historique/HistoriqueHeartBeat.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/views/Dashboard.jsx" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/layouts/Admin/Admin.jsx" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/App.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/components/Charts/ChartHeart.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/views/Map.jsx" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/src/components/auth/Register.js" />
+        <option value="$PROJECT_DIR$/BackEnd/routes/users.js" />
+        <option value="$PROJECT_DIR$/BackEnd/controllers/users.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/BackEnd/app.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/server.js" />
+        <option value="$PROJECT_DIR$/protected-coast-31648/package.json" />
+        <option value="$PROJECT_DIR$/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/protected-coast-31648/src/assets/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\LENOVO\Desktop\black-dashboard-react-master\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\components" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\BackEnd" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\protected-coast-31648\src\assets\img" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\assets\img" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\views" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\components\Charts" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\components\total" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6a06027-fd14-4a23-851c-a4c19ceb77c4" name="Default Changelist" comment="" />
+      <created>1566302047708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566302047708</updated>
+      <workItem from="1566302048895" duration="80743000" />
+      <workItem from="1566563904513" duration="372000" />
+      <workItem from="1566564493642" duration="34223000" />
+      <workItem from="1566683252704" duration="402000" />
+      <workItem from="1566684377232" duration="17373000" />
+      <workItem from="1566775049590" duration="989000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1566665606990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566665606991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134102000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27827382" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32733223" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.049099836" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20238096" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.12111293" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32733223" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/protected-coast-31648" />
+    </ignored-roots>
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/total/TotalDistanceParcourue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/ChartHeart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2176">
+          <caret line="1" column="15" selection-start-line="1" selection-end-line="2" />
+          <folding>
+            <element signature="e#83#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/total/TotalTempsParcouru.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#1471#1833#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/profileActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#353#798#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/validation/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Dashboard.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Historique/HistoriqueHeartBeat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/auth/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/Admin/Admin.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="26" column="13" selection-start-line="26" selection-end-line="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#819#886#0" expanded="true" />
+            <element signature="e#1074#1111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbars/AdminNavbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="209" column="31" lean-forward="true" selection-start-line="209" selection-end-line="210" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#685#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/UserProfile.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="181" column="64" lean-forward="true" selection-start-line="181" selection-start-column="64" selection-end-line="181" selection-end-column="64" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/BackEnd/controllers/users.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/auth/Login.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Charts/ChartCalories.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Charts/ChartDistance.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Historique/HistoriqueCalories.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Historique/HistoriqueHeartBeat.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Historique/HistoriqueDistance.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Historique/HistoriqueScores.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Home/Home.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Navbars/AdminNavbar.jsx" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Sidebar/Sidebar.jsx" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/total/getLastCalorie.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/total/getLastTempsDate.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/total/ListScore.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/total/TotalDistanceParcourue.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/total/TotalTempsParcouru.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/root.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/Historique/HistoriqueCalories.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/Historique/HistoriqueDistance.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/Historique/HistoriqueHeartBeat.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/Historique/HistoriqueScores.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/views/Dashboard.jsx" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/layouts/Admin/Admin.jsx" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/Charts/ChartHeart.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/views/Map.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/auth/Register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="146" column="19" selection-end-line="330" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/src/components/auth/Register.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/BackEnd/package.json" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/BackEnd/app.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/server.js" />
+    <entry file="file://$PROJECT_DIR$/protected-coast-31648/package.json" />
+    <entry file="file://$PROJECT_DIR$/BackEnd/controllers/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="955" column="73" selection-start-line="955" selection-start-column="73" selection-end-line="955" selection-end-column="73" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#18598#20941#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!block;n#dependencies#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="n#!!block;n#dependencies#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-541" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-541" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
