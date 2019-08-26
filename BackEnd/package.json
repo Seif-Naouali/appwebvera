@@ -9,7 +9,6 @@
     "server": "nodemon ../server.js  --ignore client",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix ../../black-dashboard-react-master && npm run build --prefix ../../black-dashboard-react-master"
   },
-  "proxy": "https://vrcycling.herokuapp.com/",
   "author": "Feriel Fadhloun",
   "license": "ISC",
   "dependencies": {
