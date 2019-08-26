@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6a06027-fd14-4a23-851c-a4c19ceb77c4" name="Default Changelist" comment="" />
+    <list default="true" id="c6a06027-fd14-4a23-851c-a4c19ceb77c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BackEnd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BackEnd/controllers/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="15215">
               <caret line="955" column="73" selection-start-line="955" selection-start-column="73" selection-end-line="955" selection-end-column="73" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -26,27 +28,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="289">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BackEnd/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-541" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BackEnd/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="187">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
               <folding>
                 <element signature="n#!!block;n#dependencies#0;n#!!top" />
               </folding>
@@ -117,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BackEnd/middleware/file.js" />
         <option value="$PROJECT_DIR$/BackEnd/middleware/multer.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/Historique/HistoriqueDistance.js" />
@@ -168,6 +167,7 @@
         <option value="$PROJECT_DIR$/protected-coast-31648/server.js" />
         <option value="$PROJECT_DIR$/protected-coast-31648/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/BackEnd/package.json" />
       </list>
     </option>
   </component>
@@ -260,6 +260,7 @@
       <workItem from="1566683252704" duration="402000" />
       <workItem from="1566684377232" duration="17373000" />
       <workItem from="1566775049590" duration="989000" />
+      <workItem from="1566776880232" duration="1373000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1566665606990</created>
@@ -272,7 +273,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134102000" />
+    <option name="totallyTimeSpent" value="135475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,7 +288,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27827382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18601191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -301,7 +302,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.049099836" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31587562" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -496,9 +497,10 @@
     <entry file="file://$PROJECT_DIR$/protected-coast-31648/BackEnd/app.js" />
     <entry file="file://$PROJECT_DIR$/protected-coast-31648/server.js" />
     <entry file="file://$PROJECT_DIR$/protected-coast-31648/package.json" />
+    <entry file="file://$PROJECT_DIR$/BackEnd/users.js" />
     <entry file="file://$PROJECT_DIR$/BackEnd/controllers/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="15215">
           <caret line="955" column="73" selection-start-line="955" selection-start-column="73" selection-end-line="955" selection-end-column="73" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -507,13 +509,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/package.json">
+    <entry file="file://$PROJECT_DIR$/BackEnd/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!block;n#dependencies#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="697">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -527,27 +536,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/routes/users.js">
+    <entry file="file://$PROJECT_DIR$/BackEnd/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-541" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-541" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!block;n#dependencies#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
